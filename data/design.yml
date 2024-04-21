@@ -5,21 +5,21 @@ icons:
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: DIN Next LT Pro
     weight: 400
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Alegreya
+    weight: 700
     strong: 0
-    italic: false
+    italic: true
     line-height: 1.25
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: Brandon Grotesque
+    weight: 900
     strong: 0
     italic: false
     line-height: 1.25
@@ -27,39 +27,39 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#d19a2a'
     light: '#fff'
     dark: '#fff'
-    contrast: text
+    contrast: none
   alt:
     color: '#fff'
     light: '#fff'
     dark: '#fff'
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '#fff'
     light: '#fff'
     dark: '#fff'
-    contrast: text
+    contrast: none
   base:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#382f39'
     black: '#000'
 rounded:
-  radius: 0.33
+  radius: 1.33
   chamfer: false
 buttons:
   sides_round: false
   icon_circle: false
-  deep: false
+  deep: true
   outline: false
   font_base: false
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
   opacity: 0.15
 lightbox_overlay:

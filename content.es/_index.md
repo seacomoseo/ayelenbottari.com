@@ -1,22 +1,13 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: 'Ayelén Bott: Formación en Matemáticas, Estadística y Finazas'
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
-image: fondo.jpg
+description: llll➤ Profesora de Clases Particulares Online ✅ de Matemáticas, Estadística y Finanzas 🥇 Capacitación Universitaria y Empresarial.
+image: logo.png
 draft: false
 noindex: false
 translationKey: home
+header_article: true
 sections:
-- file: header
-- file: nosotros
-- file: servicios
-  modals:
-  - ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
-- file: faq
-- file: resenas
-- file: contacto
+- file: blog
 ---

@@ -2,10 +2,11 @@
 title: Admin
 title_seo: ''
 slug: admin
-description: ''
-image: logo.png
+description: Profesora de Clases Particulares Online de Matemáticas, Estadística y Finanzas. Capacitación Universitaria y Empresarial.
+image: ayelen.jpg
 toc: false
 draft: false
 noindex: true
-translationKey: admin
 ---
+
+Profesora de Clases Particulares Online de Matemáticas, Estadística y Finanzas. Capacitación Universitaria y Empresarial.
