@@ -1,8 +1,8 @@
 ---
 title: Inicio
-title_seo: 'Ayelén Bott: Formación en Matemáticas, Estadística y Finazas'
+title_seo: 'Ayelén Bottari: Formación en Matemáticas, Estadística y Finazas'
 slug: inicio
-description: llll➤ Profesora de Clases Particulares Online ✅ de Matemáticas, Estadística y Finanzas 🥇 Capacitación Universitaria y Empresarial.
+description: llll➤ Bienvenid@ a mi anotador personal. Si algo te sirve ¡tómalo! ✅ Si no es así ¡descártalo! Tú sabes.
 image: logo.png
 draft: false
 noindex: false

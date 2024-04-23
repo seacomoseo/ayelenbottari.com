@@ -1,5 +1,9 @@
-anchor: 'Ayelén Bottari'
+anchor: Ayelén Bottari
+description: |
+  Bienvenid@ a mi anotador personal. Si algo te sirve ¡tómalo! Si no es así ¡descártalo! Tú sabes.
 size: md
+more:
+  padding_top: 0
 rows:
 - type: articles
   kind: blog
