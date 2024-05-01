@@ -1,7 +1,7 @@
 ---
-title: 'Cuentos '
+title: Cuentos
 title_seo: ''
-slug: cuentos-varios
+slug: cuentos
 description: ''
 image: ''
 categories: []
