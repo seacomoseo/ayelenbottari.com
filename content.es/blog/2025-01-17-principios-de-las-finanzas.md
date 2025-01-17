@@ -3,30 +3,17 @@ title: ¿Cuáles son los Principios de las Finanzas?
 title_seo: ''
 slug: principios-de-las-finanzas
 description: ''
-image: /green-and-orange-illustrative-finance-event-instagram-post.png
+image: blog/principios-de-las-finanzas.jpg
 categories:
 - general
-tags: []
-author: ''
+author: admin
 toc: false
 draft: false
 noindex: false
 date: 2025-01-17
-lastmod: 2025-01-17
+# lastmod: 2025-01-17
 ---
 ## **¿CUÁLES SON LOS PRINCIPIOS DE LAS FINANZAS?**
-
-
-
-
-
-
-
-
-
-
-
-
 
 Al igual que otras ciencias, la ciencia de las Finanzas utiliza principios y supuestos que le permiten la construcción de modelos, ya sea para diseñar un plan de negocio,  para valuar una empresa, crear una estructura de capital óptima o alguna otra posibilidad. A continuación, te presentaré los principios básicos que tendrás que conocer si quieres adentrarte en el conocimiento de las Finanzas.
 
