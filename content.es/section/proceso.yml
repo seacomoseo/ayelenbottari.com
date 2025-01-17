@@ -1,0 +1,25 @@
+name: Proceso
+title: Proceso
+subtitle: ¿Qué pasos seguimos?
+icon: shoe-prints
+steps:
+- title: Lorem ipsum
+  subtitle: Dolor sit amet
+  icon: star
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Lorem ipsum
+  subtitle: Dolor sit amet
+  icon: star
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Lorem ipsum
+  subtitle: Dolor sit amet
+  icon: star
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: Lorem ipsum
+  subtitle: Dolor sit amet
+  icon: star
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

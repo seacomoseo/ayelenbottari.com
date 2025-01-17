@@ -1,0 +1,61 @@
+name: Formación Universitaria
+id: formacion-universitaria
+title: Formación Universitaria
+content: |
+  Querid@ alumn@, de mi mano podrás aprender e incorporar el conocimiento que necesitás para aprobar tus exámenes y lograr tus metas universitarias. El proceso será:
+box:
+  gap_min: 2
+boxes:
+
+- box:
+    columns: 3
+    gap_min: 1
+    uppercase: true
+    hs: 5
+    icon_type: side
+    grow: true
+  boxes:
+  - icon: clock
+    title: Rápido
+    content: En pocas horas
+  - icon: circle-check
+    title: Simple
+    content: De manera clara y metódica
+  - icon: wallet
+    title: Económico
+    content: Acorde a tu economía universitaria
+  - icon: trophy
+    title: Efectivo
+    content: 90% de aprobados en sus exámenes con buenas y muy buenas calificaciones
+  - icon: circle-xmark
+    title: Sin requisitos
+    content: |
+      Sin requisitos previos: ¡No necesitás saber el contenido con antelación!
+
+- title: Modalidades
+  uppercase: true
+  underline: true
+  box:
+    columns: 2
+    gap_min: 2
+    uppercase: true
+    underline: true
+    hs: 6
+  boxes:
+  - icon: chalkboard-user
+    title: Clases en vivo
+    content: |
+      Se caracterizan por ser:
+      - icon:check Individuales o en grupos reducidos
+      - icon:check De 1 hora de duración
+      - icon:check Con el material de estudio incluído
+  - icon: display
+    title: Entrenamientos virtuales
+    content: |
+      Es un método ideal de aprendizaje para aquellas personas que llevan rutinas con múltiples actividades y que disponen de poco tiempo para estudiar. Con este formato podrás estudiar de modo asincrónico en función de tus horarios y días disponibles y, además, contarás con un seguimiento contínuo del proceso y con la posibilidad de despejar dudas cuando sea necesario.
+
+- content: |
+      Puedo asesorarte sobre la opción de aprendizaje óptima a tomar, \
+      acorde a tu objetivo
+
+      [btn:dark ¡Consúltame!](#contacto)

@@ -1,0 +1,20 @@
+title: Únicas
+order: 0
+base: single
+template:
+  menu:
+    logo: false
+    sticky: none
+  callnow:
+    show: auto
+  section:
+  - uppercase: true
+    underline: true
+    color: light
+    parallax: fix
+    # divider: wavy-alt
+    alpha: 0.7
+  - color: white
+  modal:
+    uppercase: true
+    underline: true

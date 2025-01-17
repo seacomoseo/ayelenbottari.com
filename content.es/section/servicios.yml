@@ -1,0 +1,37 @@
+name: Servicios
+title: Servicios
+subtitle: Aprendé
+size: sm
+# box:
+#   columns: 3
+#   underline: true
+#   gap_min: 2
+boxes:
+- box:
+    columns: 3
+    # uppercase: true
+    # underline: true
+    # gap_min: 2
+    icon_type: side
+  boxes:
+  - icon: square-root-variable
+    title: Matemáticas
+  - icon: chart-line-up
+    title: Estadística
+  - icon: chart-pie
+    title: Finanzas
+# - content: ---
+# - subtitle: Para...
+- box:
+    columns: 2
+    uppercase: true
+    # underline: true
+    gap_min: 2
+    color: white
+  boxes:
+  - icon: graduation-cap
+    title: Formación Universitaria
+    link: '#formacion-universitaria'
+  - icon: person-chalkboard
+    title: Capacitación Empresarial
+    link: '#capacitacion-empresarial'

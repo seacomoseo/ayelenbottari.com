@@ -1,0 +1,84 @@
+icons:
+  type: solid
+  sharp: false
+  emojis: ''
+  emojis_default: false
+  play: youtube-iframe
+  up: ''
+  down: ''
+  left: ''
+  right: ''
+fonts:
+  google: true
+  base:
+    family: DIN Next LT Pro
+    weight: 400
+    bold: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Alegreya
+    weight: 700
+    bold: 0
+    italic: true
+    line-height: 1.25
+    size: 1.2
+    top: 0
+  title:
+    family: Brandon Grotesque
+    weight: 900
+    bold: 0
+    italic: false
+    line-height: 1.25
+    size: 1
+    top: 0
+  blockquote_cursive: true
+colors:
+  main:
+    color: '#d19a2a'
+    light: ''
+    dark: ''
+    contrast: none
+  alt:
+    color: ''
+    light: ''
+    dark: ''
+    contrast: all
+  link:
+    color: ''
+    light: ''
+    dark: ''
+    contrast: none
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#382f39'
+    black: '#000'
+rounded:
+  radius: 1.33
+  chamfer: false
+buttons:
+  sides_round: false
+  dot_circle: false
+  deep: true
+  outline: false
+  font_main:
+    type: title
+    bold: false
+    uppercase: true
+  font_alt:
+    type: base
+    bold: false
+    uppercase: false
+inputs:
+  fill: false
+  labels_out: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0.15
+  color: black
+  alpha: 0.85
+performance:
+  show: true

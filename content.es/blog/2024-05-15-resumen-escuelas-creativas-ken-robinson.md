@@ -1,6 +1,6 @@
 ---
 title: Resumen del Libro 'Escuelas creativas' de Ken Robinson
-title_seo: 📙 Resumen del Libro 'Escuelas creativas' 【 de Ken Robinson 】
+seo: 📙 Resumen del Libro 'Escuelas creativas' 【 de Ken Robinson 】
 slug: resumen-escuelas-creativas-ken-robinson
 description: 'El libro expone cómo la cultura de la normalización perjudica a
   los alumnos y a las escuelas, y presenta una forma distinta de entender a la
@@ -12,13 +12,12 @@ description: 'El libro expone cómo la cultura de la normalización perjudica a
 image: ''
 categories:
 - resumen-libro
-tags: []
 author: admin
 toc: true
 draft: true
 noindex: false
 date: 2024-05-15
-lastmod: ''
+# lastmod: ''
 ---
 El libro que compartiré hoy consta de las siguientes partes :
 

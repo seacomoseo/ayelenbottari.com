@@ -1,0 +1,10 @@
+name: Header
+image: base/logo.svg
+title: Educación con Amor
+color: dark
+alpha: 0
+bg: fondo.svg
+full: true
+underline: false
+# content: |
+#   [btn icon:plus Más](#more)
