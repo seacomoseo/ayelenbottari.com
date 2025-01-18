@@ -5,3 +5,9 @@
   .image      { @include show-from(0); --show-from: perspective(50em) rotateY(90deg); }
   .box__title { @include show-from(1); }
 }
+
+#servicios {
+  .box__button {
+    width: auto;
+  }
+}

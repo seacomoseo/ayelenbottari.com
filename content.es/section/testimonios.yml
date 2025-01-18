@@ -8,14 +8,14 @@ boxes:
     interval: 8
     columns: 3
   reviews:
-  - title: Marta
+  - title: Daina
     content: |
       Aye! Perdón la hora! Pero te quería agradecer! Sin tu empujón no hubiera podido!!
 
       Llegue a hacer casi todo y por lo poco que estudié fue un montón!!
 
       Hice todo a conciencia y pasó a paso! No creo que esté todo bien, pero por lo menos pude llegar con todo! Así que gracias!!!!
-  - title: Leonardo
+  - title: Estefi
     content: |
       Aye antes que termine el día quiero agradecerte por las palabras de hoy! Me encanta la persona que sos, por eso estás rodeada de cosas buenas.
 
@@ -29,12 +29,12 @@ boxes:
       Aye, buen día como estas, puede ser que me dijiste que todo el entrenamiento salía ... Y de ser así, si te transfiero ... me pasas el resto de las unidades?
 
       La verdad es que están muy buenas y estoy medio complicado con los tiempos me va a venir bien tener todo completo. Si me confirmas eso te transfiero eso ahora. Saludos.
-  - title: Andrea
+  - title: Juan
     content: |
       Hola Ayelen, buen día! Quería contarte que me saque un 9
       
       😃😃 muchas gracias!
-  - title: Marco
+  - title: Luz
     content: |
       Hola aye! Ahí recibí todos los archivos, muchísimas gracias ❤️😊
 
