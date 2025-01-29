@@ -1,2 +1,1 @@
-# comentario
-/qr /
+/contacto/ /#contacto
