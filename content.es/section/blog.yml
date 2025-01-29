@@ -4,5 +4,8 @@ content: |
   Bienvenid@ a mi anotador personal. Si algo te sirve ¡tómalo! Si no es así ¡descártalo! Tú sabes.
 size: md
 hanchor: Ayelén Bottari
+box:
+  slider: true
 list:
   type: blog
+  max: 12

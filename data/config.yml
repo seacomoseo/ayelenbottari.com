@@ -6,3 +6,5 @@ langs:
   phone_code: 54
   time_zone: America/Argentina/Buenos_Aires
   currency: ARS
+others:
+  show: true

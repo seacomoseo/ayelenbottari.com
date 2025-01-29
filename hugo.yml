@@ -2,10 +2,10 @@ baseURL: https://ayelenbottari.com
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/ayelenbottari.com
+  domain: ayelenbottari.com
   name: ayelenbottari
   netlify_id: 397dc04d-f714-4663-9d23-7eb6d80fe0f8
   netlify_hook: NjYyNTA2ZjVlNWRlMDdiMmRhMzFiY2ZjCg==
-  cloudflare_hook: 
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/1RXA-84zQkLKIokZcHdohIRw3hNlLkqUb
   drive_mails: ayelenbottari@gmail.com
