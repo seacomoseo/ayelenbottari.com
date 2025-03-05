@@ -1,5 +1,5 @@
 base: page
-order: 2
+order: 1
 name: category
 taxonomy_of:
 - name: blog

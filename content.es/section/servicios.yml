@@ -2,16 +2,9 @@ name: Servicios
 title: Servicios
 subtitle: Aprendé
 size: sm
-# box:
-#   columns: 3
-#   underline: true
-#   gap_min: 2
 boxes:
 - box:
-    columns: 3
-    # uppercase: true
-    # underline: true
-    # gap_min: 2
+    cols: 3
     icon_type: side
   boxes:
   - icon: square-root-variable
@@ -20,10 +13,8 @@ boxes:
     title: Estadística
   - icon: chart-pie
     title: Finanzas
-# - content: ---
-# - subtitle: Para...
 - box:
-    columns: 2
+    cols: 2
     uppercase: true
     padding_min: 2
     gap_min: 2

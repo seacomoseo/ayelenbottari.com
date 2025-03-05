@@ -3,9 +3,9 @@ gap_y: 2
 boxes:
 - social: []
 - content: |
-    - icon:copyright      {{< internal-link index >}}
-    - icon:scale-balanced {{< internal-link legal >}}
-    - icon:shield-keyhole {{< internal-link privacy >}}
-    - icon:cookie-bite    {{< internal-link cookies >}}
-    - icon:seacomoseo     Hecho con icon:heart por [seacomoseo.com](https://seacomoseo.com/)
+    - :copyright:      {{< internal-link index >}}
+    - :scale-balanced: {{< internal-link legal >}}
+    - :shield-keyhole: {{< internal-link privacy >}}
+    - :cookie-bite:    {{< internal-link cookies >}}
+    - :seacomoseo:     Hecho con :heart: por [seacomoseo.com](https://seacomoseo.com/)
     {.list-inline}

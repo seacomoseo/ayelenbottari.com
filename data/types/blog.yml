@@ -1,5 +1,5 @@
 base: article
-order: 3
+order: 0
 name: blog
 related: true
 es:

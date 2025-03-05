@@ -2,20 +2,18 @@ name: Contacto
 title: Contacto
 subtitle: ¿En qué puedo ayudarte?
 size: xs
-menu_button: link
+menu_button: cta
 contact:
-- type: br
 - type: phone
   label: +54 294 5910486
   button: light
 - type: whatsapp
   label: +54 294 5910486
-  button: link
+  button: cta
 - type: mail
   label: ayelenbottari@gmail.com
   button: dark
 form:
-  fill: true
   email: ayelenbottari@gmail.com
 inputs:
 - type: text

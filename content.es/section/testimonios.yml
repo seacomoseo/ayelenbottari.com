@@ -6,7 +6,7 @@ boxes:
     color: white
     slider: true
     interval: 8
-    columns: 3
+    cols: 3
   reviews:
   - title: Daina
     content: |

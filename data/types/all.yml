@@ -28,13 +28,14 @@ template:
         link: /blog/
       - label: Contacto
         link: /contacto/
-        button: link
+        button: cta
   callnow:
     show: hide
     es: []
   section:
   - size: sm
     uppercase: true
+    underline: true
   modal: {}
   sections:
   - file: base/_header
@@ -48,7 +49,7 @@ template:
   - file: base/share
   - file: base/related
   list:
-    columns: 3
+    cols: 3
     color: white
     decline: true
     inset: true

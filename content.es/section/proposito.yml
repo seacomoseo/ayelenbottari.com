@@ -1,8 +1,7 @@
 name: Propósito
-hanchor: Propósito
 size: md
 box:
-  columns: 3
+  cols: 3
   uppercase: true
   underline: true
   gap_min: 2
@@ -13,7 +12,7 @@ boxes:
   content: |
     Me gustaría mostrarte que el aprendizaje aumenta tu comprensión y te expande, dándote recursos creativos para vivir en sociedad y la posibilidad de simplificar tu vida.
 
-    [btn icon:plus Más](#proposito-mas)
+    [[:plus: Más]](#proposito-mas)
 - title: Valores
   content: |
     - Simpleza

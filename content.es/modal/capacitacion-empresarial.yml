@@ -3,7 +3,7 @@ id: capacitacion-empresarial
 title: Capacitación Empresarial
 subtitle: Modalidades
 box:
-  columns: 2
+  cols: 2
   gap: 2
   uppercase: true
   underline: true
@@ -18,4 +18,4 @@ boxes:
 
 - span: 2
   content: |
-      [btn:dark ¡Consúltame!](#contacto)
+      [[¡Consúltame!]](#contacto "[dark]")

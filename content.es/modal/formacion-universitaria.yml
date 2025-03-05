@@ -8,7 +8,7 @@ box:
 boxes:
 
 - box:
-    columns: 3
+    cols: 3
     gap_min: 1
     uppercase: true
     hs: 5
@@ -36,7 +36,7 @@ boxes:
   uppercase: true
   underline: true
   box:
-    columns: 2
+    cols: 2
     gap_min: 2
     uppercase: true
     underline: true
@@ -46,9 +46,9 @@ boxes:
     title: Clases en vivo
     content: |
       Se caracterizan por ser:
-      - icon:check Individuales o en grupos reducidos
-      - icon:check De 1 hora de duración
-      - icon:check Con el material de estudio incluído
+      - :check: Individuales o en grupos reducidos
+      - :check: De 1 hora de duración
+      - :check: Con el material de estudio incluído
   - icon: display
     title: Entrenamientos virtuales
     content: |
@@ -58,4 +58,4 @@ boxes:
       Puedo asesorarte sobre la opción de aprendizaje óptima a tomar, \
       acorde a tu objetivo
 
-      [btn:dark ¡Consúltame!](#contacto)
+      [[¡Consúltame!]](#contacto "[dark]")
