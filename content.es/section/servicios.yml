@@ -3,9 +3,11 @@ title: Servicios
 subtitle: Aprendé
 size: sm
 boxes:
-- box:
+- hanchor: Materias
+  box:
     cols: 3
     icon_type: side
+    hs: 2
   boxes:
   - icon: square-root-variable
     title: Matemáticas
