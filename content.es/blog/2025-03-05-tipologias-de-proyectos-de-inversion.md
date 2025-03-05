@@ -1,7 +1,7 @@
 ---
 slug: tipologias-de-proyectos-de-inversion
 title: Tipologías de Proyectos de Inversión
-image: /proyectos-de-inversion.png
+image: blog/proyectos-de-inversion.webp
 date: 2025-03-05 12:21:03
 category: general
 ---

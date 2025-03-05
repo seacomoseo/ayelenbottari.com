@@ -1,7 +1,7 @@
 ---
 slug: que-es-el-capital-de-trabajo-como-determinar-su-inversion
 title: ¿Qué es el capital de trabajo y cómo determinar su inversión?
-image: /brown-minimalist-quote-instagram-post.png
+image: blog/brown-minimalist-quote-instagram-post.webp
 date: 2025-01-22 00:20:52
 author: admin
 category: general
