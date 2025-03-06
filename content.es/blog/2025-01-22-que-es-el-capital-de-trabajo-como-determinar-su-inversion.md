@@ -15,7 +15,7 @@ Una inversión fundamental para el éxito o el fracaso de un negocio es la que s
 
 Existen tres modelos para calcular el monto a invertir en capital de trabajo, siendo el último de ellos el más exacto de los tres disponibles para determinar la inversión. 
 
-- **MÉTODO CONTABLE**
+## MÉTODO CONTABLE
 
 Considera que la inversión en capital de trabajo es la diferencia entre los niveles promedios de activos corrientes o circulantes proyectados (recursos mantenidos en caja, cuentas por cobrar e inventarios) y los pasivos corrientes o circulantes(créditos bancarios de corto plazo, deudas con proveedores y otras cuentas por pagar de corto plazo).
 
@@ -23,7 +23,7 @@ Considera que la inversión en capital de trabajo es la diferencia entre los niv
 
 
 
-_CAPITAL DE TRABAJO=  ACTIVOS CIRCULANTES - PASIVOS CIRCULANTES_ 
+_CAPITAL DE TRABAJO =  ACTIVOS CIRCULANTES - PASIVOS CIRCULANTES_ 
 
 
 Este método presenta limitaciones dado la dificultad que existe para estimar una proyección confiable de cada variable. Por eso se recomienda su uso sólo cuando, en una empresa en funcionamiento, el capital de trabajo contable observado históricamente está correlacionado con alguna variable mensurable y conocida para el nuevo proyecto (como el volumen de la producción, el valor de los activos o el costo de los insumos, entre otras). 
@@ -32,7 +32,7 @@ Este método presenta limitaciones dado la dificultad que existe para estimar un
 
 
 
-- **PERÍODO DE DESFASE**
+## PERÍODO DE DESFASE
 
 De acuerdo a este modelo, el capital de trabajo se calcula como la cantidad de recursos necesarios para financiar los costos de operación desde que se inician los desembolsos hasta que se recuperan. Para ello, toma el costo promedio diario (Ca1/365)  y lo multiplica por el número de días estimados de desfase (n).
 
@@ -52,7 +52,7 @@ siendo Ca1, el costo anual proyectado para el primer año de operación. 
 
 
 
-- **MÉTODO DEL DÉFICIT ACUMULADO MÁXIMO**
+## MÉTODO DEL DÉFICIT ACUMULADO MÁXIMO
 
 Es el más exacto de los tres métodos al determinar el máximo déficit que se produce entre los egresos e ingresos. Este método considera las estacionalidades posibles que puedan ocurrir en la producción, las ventas o compras de insumos (a diferencia del método anterior que considera promedios y no contempla la estacionalidad).
 
