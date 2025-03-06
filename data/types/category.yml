@@ -9,3 +9,10 @@ taxonomy_of:
 - name: category
   multiple: true
   breadcrumbs: true
+template:
+  list:
+    image: hide
+    icon: ''
+    hs: 3
+    align: center
+    button: ''

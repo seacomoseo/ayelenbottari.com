@@ -4,14 +4,14 @@ title_seo: ''
 slug: principios-de-las-finanzas
 description: ''
 image: blog/principios-de-las-finanzas.jpg
-categories:
+category:
 - general
 author: admin
 toc: false
 draft: false
 noindex: false
-date: 2025-01-17
-# lastmod: 2025-01-17
+date: 2025-01-17 00:00:00
+# lastmod: 2025-01-17 00:00:00
 ---
 ## **¿CUÁLES SON LOS PRINCIPIOS DE LAS FINANZAS?**
 

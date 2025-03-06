@@ -1,8 +1,7 @@
 icons:
   type: solid
   sharp: false
-  emojis: ''
-  emojis_default: false
+  emojis: false
   play: youtube-iframe
   up: ''
   down: ''

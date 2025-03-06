@@ -10,13 +10,13 @@ description: 'El libro expone cómo la cultura de la normalización perjudica a
   creativa para brindar a los alumnos la clase de educación personalizada,
   compasiva y orientada a la comunidad que necesitan. '
 image: ''
-categories:
+category:
 - resumen-libro
 author: admin
 toc: true
 draft: true
 noindex: false
-date: 2024-05-15
+date: 2024-05-15 00:00:00
 # lastmod: ''
 ---
 El libro que compartiré hoy consta de las siguientes partes :

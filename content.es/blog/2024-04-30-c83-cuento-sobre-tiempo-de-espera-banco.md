@@ -4,13 +4,13 @@ seo: '"C83" - Un reclamo hecho cuento'
 slug: c83-cuento-sobre-tiempo-de-espera-banco
 description: ''
 image: blog/c83-cuento-sobre-tiempo-de-espera-banco.jpg
-categories:
+category:
 - cuentos
 author: admin
 toc: false
 draft: false
 noindex: false
-date: 2024-04-30
+date: 2024-04-30 00:00:00
 # lastmod: ''
 ---
 En el sanatorio de números eucledianos se encontraba internado el número 83. Al despertar y ver en su pijama la insignia del lugar se preguntó:

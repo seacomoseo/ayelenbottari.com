@@ -4,7 +4,8 @@ title: ¿Qué es el capital de trabajo y cómo determinar su inversión?
 image: blog/brown-minimalist-quote-instagram-post.webp
 date: 2025-01-22 00:20:52
 author: admin
-category: general
+category:
+- general
 ---
 
 

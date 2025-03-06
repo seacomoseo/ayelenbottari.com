@@ -3,7 +3,9 @@ slug: tipologias-de-proyectos-de-inversion
 title: Tipologías de Proyectos de Inversión
 image: blog/proyectos-de-inversion.webp
 date: 2025-03-05 12:21:03
-category: general
+author: admin
+category:
+- general
 ---
 Si queremos abordar de manera sistemática el estudio de un proyecto de inversión con el fin de optimizar la asignación de recursos, es necesario clasificarlo preliminarmente, para, de ese modo, contar con una base conceptual que permita la resolución de los diferentes casos y un análisis adecuado.
 
