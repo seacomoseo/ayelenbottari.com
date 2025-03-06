@@ -11,8 +11,10 @@ taxonomy_of:
   breadcrumbs: true
 template:
   list:
+    cols: 3
     image: hide
     icon: ''
-    hs: 3
+    hs: 5
+    uppercase: true
     align: center
     button: ''

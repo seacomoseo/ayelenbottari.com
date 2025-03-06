@@ -5,7 +5,7 @@ image: blog/brown-minimalist-quote-instagram-post.webp
 date: 2025-01-22 00:20:52
 author: admin
 category:
-- general
+- finanzas
 ---
 
 Una inversión fundamental para el éxito o el fracaso de un negocio es la que se debe realizar en capital de trabajo. Lo definiremos como el _capital necesario para financiar los desfases de caja durante la vida económica del proyecto_.

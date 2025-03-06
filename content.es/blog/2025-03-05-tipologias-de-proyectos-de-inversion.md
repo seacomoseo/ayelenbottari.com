@@ -5,7 +5,7 @@ image: blog/proyectos-de-inversion.webp
 date: 2025-03-05 12:21:03
 author: admin
 category:
-- general
+- finanzas
 ---
 Si queremos abordar de manera sistemática el estudio de un proyecto de inversión con el fin de optimizar la asignación de recursos, es necesario clasificarlo preliminarmente, para, de ese modo, contar con una base conceptual que permita la resolución de los diferentes casos y un análisis adecuado.
 
