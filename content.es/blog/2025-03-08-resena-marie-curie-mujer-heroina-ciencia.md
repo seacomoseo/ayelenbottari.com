@@ -11,10 +11,8 @@ Mujer de fama justa, Marie curie supo abrir caminos en un mundo que, por entonce
 
 Fue la primera persona que recibió dos premios Nobel. El primero de Física, junto a Becquerel y Pierre Curie, en 1903; el segundo, de Química, en 1911.
 
-Einstein plasmó en una carta a su nombre  la impresión que esta mujer le ocasionó: “ […]Me siento en la obligación de decirle lo mucho que admiro su intelecto, su propósito y su honestidad y me considero afortunado de haberla conocido en persona[…] ”.
+Einstein plasmó en una carta a su nombre  la impresión que esta mujer le ocasionó:
 
-Después de años dedicados a la ciencia, falleció en Passy el 4 de Julio de 1934, dejando un legado de investigaciones extensas sobre la radiactividad, las propiedades de los elementos radiactivos y sus aplicaciones en el campo de la medicina. 
+> […] Me siento en la obligación de decirle lo mucho que admiro su intelecto, su propósito y su honestidad y me considero afortunado de haberla conocido en persona […]
 
-
-
-
+Después de años dedicados a la ciencia, falleció en Passy el 4 de Julio de 1934, dejando un legado de investigaciones extensas sobre la radiactividad, las propiedades de los elementos radiactivos y sus aplicaciones en el campo de la medicina.

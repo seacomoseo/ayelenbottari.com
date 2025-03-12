@@ -12,7 +12,7 @@ template:
     underline: true
     color: light
     parallax: fix
-    # divider: wavy-alt
+    # div: wavy-alt
     alpha: 0.7
   - color: white
   modal:

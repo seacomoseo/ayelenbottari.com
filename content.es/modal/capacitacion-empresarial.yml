@@ -11,11 +11,11 @@ box:
 boxes:
 - icon: crosshairs
   title: Enfoque a objetivos específicos
-  content: Brindo capacitaciones personalizadas a partir de objetivos y directrices establecidos por la empresa.
+  md: Brindo capacitaciones personalizadas a partir de objetivos y directrices establecidos por la empresa.
 - icon: chart-pie
   title: Programas estadísticos y financieros
-  content: Destinados a adquirir y actualizar contenidos con el fin de mejorar la performance laboral y las habilidades comunicativas del equipo basadas en el conocimiento científico.
+  md: Destinados a adquirir y actualizar contenidos con el fin de mejorar la performance laboral y las habilidades comunicativas del equipo basadas en el conocimiento científico.
 
-- span: 2
-  content: |
+- fit: 2
+  md: |
     [[¡Consúltame!]](#contacto "[dark]")

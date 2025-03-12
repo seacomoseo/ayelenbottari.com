@@ -18,8 +18,8 @@ boxes:
 - box:
     cols: 2
     uppercase: true
-    padding_min: 2
-    gap_min: 2
+    pd_vs: 2
+    gap_vs: 2
     color: white
   boxes:
   - icon: graduation-cap

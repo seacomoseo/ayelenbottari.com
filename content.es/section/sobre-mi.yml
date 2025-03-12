@@ -8,8 +8,8 @@ box:
   circle: true
 boxes:
 - image: ayelen-joung.jpg
-- span: 2
-  content: |
+- fit: 2
+  md: |
     ¡Hola! Me llamo Ayelén Bottari, nací el 01 de Agosto de 1986 y desde entonces vivo apasionadamente, con profundo sentido de la vida y con alegría. Desde temprana edad viví entre líneas, leyendo todo lo que estaba a mi alcance y descubriendo a través de los libros un universo paralelo: un libro en mi mano significaba la promesa de algo nuevo. Ellos entretenían y alborotaban mi naturaleza curiosa, de modo que prontamente se convirtieron en fuente de profundidad y alimento. 
 
     Dado que mi experiencia de aprendizaje siempre estuvo al alcance de un libro, adjudico gran parte del conocimiento que poseo a este oficio de ratón de biblioteca. Además, soy Licenciada en Cs. de la Educación y estudié Ing. Civil, formaciones que han contribuido a estructurar y a posicionarme epistemológicamente ante el conocimiento. 
