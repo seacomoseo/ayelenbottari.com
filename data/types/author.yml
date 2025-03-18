@@ -1,5 +1,5 @@
 base: author
 order: 2
-taxonomy_of:
+tax_of:
 - name: blog
   schema: author

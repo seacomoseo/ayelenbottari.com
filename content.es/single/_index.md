@@ -1,26 +1,27 @@
 ---
-title: Inicio
-seo: 'Ayelén Bottari: Formación en Matemáticas, Estadística y Finazas'
 slug: inicio
-description: llll➤ Clases Particulares Online ✅ de Matemáticas, Estadística y Finanzas 🥇 Formación Universitaria y Capacitación Empresarial.
+title: Inicio
 image: base/poster.png
 draft: false
 noindex: false
 translationKey: home
+seo: 'Ayelén Bottari: Formación en Matemáticas, Estadística y Finazas'
+description: llll➤ Clases Particulares Online ✅ de Matemáticas, Estadística y Finanzas 🥇 Formación Universitaria y Capacitación Empresarial.
 
-sections:
-- file: _header
-- file: proposito
-  modals:
-  - file: proposito-mas
-- file: servicios
-  modals:
-  - file: formacion-universitaria
-  - file: capacitacion-empresarial
-- file: sobre-mi
-- file: testimonios
-- file: blog
-- file: contacto
+tpl:
+  sections:
+  - file: _header
+  - file: proposito
+    modals:
+    - file: proposito-mas
+  - file: servicios
+    modals:
+    - file: formacion-universitaria
+    - file: capacitacion-empresarial
+  - file: sobre-mi
+  - file: testimonios
+  - file: blog
+  - file: contacto
 
 base: organization
 types:

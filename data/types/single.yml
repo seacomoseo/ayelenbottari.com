@@ -1,14 +1,15 @@
 title: Únicas
 order: 0
 base: single
-template:
+tpl:
   menu:
     logo: false
     sticky: none
   callnow:
     show: auto
   section:
-  - uppercase: true
+  - size: lg
+    uppercase: true
     underline: true
     color: light
     parallax: fix

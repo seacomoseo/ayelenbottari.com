@@ -1,8 +1,8 @@
 title: Todas
 order: 0
-template:
+tpl:
   toc: true
-  background:
+  back:
     color: light
   menu:
     logo: true
@@ -36,7 +36,8 @@ template:
   - size: sm
     uppercase: true
     underline: true
-  modal: {}
+  modal:
+    color: white
   sections:
   - file: base/_header
   - file: base/toc
