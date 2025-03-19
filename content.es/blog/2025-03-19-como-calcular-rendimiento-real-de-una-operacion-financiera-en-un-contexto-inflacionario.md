@@ -9,7 +9,7 @@ author: admin
 toc: false
 noindex: false
 ---
-**Introducción**
+### Introducción
 
 Para calcular el ***rendimiento real de una operación financiera de capitalización***,  tendremos que tener en cuenta que la tasa de interés bancaria ya no reflejará el verdadero rendimiento. En este contexto, aparecerán nuevas tasas que detallaré a continuación.
 
@@ -25,7 +25,7 @@ El verdadero rendimiento, es decir, la _tasa real_, se calcula mediante la igual
 
 ![](/image-4-.png)
 
-**¿Qué valores puede tener la tasa real** ***ir***?
+### ¿Qué valores puede tener la tasa real _ir_?
 
 Dado que el denominador de la fórmula será siempre positivo, si observamos el numerador, tendremos tres situaciones de análisis:
 
@@ -33,7 +33,7 @@ Dado que el denominador de la fórmula será siempre positivo, si observamos el 
 1. **iap** > **φ**. El numerador será un número positivo y, por ende, la tasa real será positiva **ir** > **0**. En este caso _sí hubo rendimiento en la operación financiera_.
 1. **iap** < **φ**. El numerador será un número negativo y, consecuentemente, la tasa real será negativa **ir** < **0**. En este caso _perdí poder adquisitivo, me descapitalicé._
 
-**Ejemplo de aplicación**
+### Ejemplo de aplicación
 
 A modo de ejemplo, pensemos que vamos a invertir dinero en una entidad bancaria y que la tasa que el banco ofrece es del 40% anual. Supongamos que,  transcurrido ese tiempo, conocemos que la inflación ocurrida el año anterior fue del 30% anual. Si quisiera saber cuánto rindió realmente la operación en este contexto , aplicaré la fórmula de ***ir*** y obtendré lo siguiente:
 
