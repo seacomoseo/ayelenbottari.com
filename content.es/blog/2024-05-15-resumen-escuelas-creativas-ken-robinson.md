@@ -40,18 +40,10 @@ Resumiré cada uno de ellas para acercarte el contenido del mismo y parte del pe
 
 La pregunta fundamental que necesitamos hacernos es ¿Para qué sirve la educación? La respuesta a esta pregunta es controvertida dado que la misma será distinta para cada persona y estará en consonancia con sus valores culturales, el contexto, su origen, el sexo y hasta su clase social.  Antes de continuar se definen ciertos términos que suelen generar confusión: <<aprendizaje >>, <<educación >>, <<formación>> y <<escuela >>.
 
-***Aprendizaje:*** Proceso durante el cual se adquieren nuevos _conocimientos_ y _destrezas_. Desde que nacen, los niños tienen una sed de aprendizaje inagotable; mantenerla viva es clave para cambiar la educación. 
+**Aprendizaje:** Proceso durante el cual se adquieren nuevos _conocimientos_ y _destrezas_. Desde que nacen, los niños tienen una sed de aprendizaje inagotable; mantenerla viva es clave para cambiar la educación. 
 
-***Educación:*** Refiere a programas de aprendizaje organizados. La premisa de la educación reglada es que los niños necesitan saber, entender y hacer cosas que jamás podrían aprender solos. 
+**Educación:** Refiere a programas de aprendizaje organizados. La premisa de la educación reglada es que los niños necesitan saber, entender y hacer cosas que jamás podrían aprender solos. 
 
-***Formación:*** Es un tipo de educación que se centra en aprender destrezas específicas.
+**Formación:** Es un tipo de educación que se centra en aprender destrezas específicas.
 
-***Escuela:*** Cualquier comunidad de personas que se reúnen para aprender juntas.
-
-
-
-
-
-
-
-
+**Escuela:** Cualquier comunidad de personas que se reúnen para aprender juntas.

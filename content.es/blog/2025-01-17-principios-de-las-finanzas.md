@@ -34,7 +34,9 @@ El tiempo siempre tiene valor. Este principio dice que disponer de $1 hoy vale m
 
 Este principio sostiene que, en un mercado perfecto de capitales, el valor actual de dos activos combinados es igual al valor de la suma de sus valores actuales considerados separadamente.
 
-_VA(A + B) = VA(A) + VA(B)_
+\[
+\operatorname{VA}(A + B) = \operatorname{VA}(A) + \operatorname{VA}(B)
+\]
 
 \* _VA_: Valor Actual
 
@@ -54,4 +56,6 @@ Dice que debemos dedicarnos a producir aquello sobre lo cual tenemos una ventaja
 
 Este principio sostiene que si elegimos determinada alternativa lo debemos hacer por sus beneficios extras (incrementales) comparado con la alternativa de no hacerlo. Los beneficios incrementales podrán obtenerse del siguiente modo:
 
-_FFincremental = FF con la decisión - FF sin tomar la decisión_
+\[
+\text{FF}_{\text{incremental}} = \text{FF}_{\text{con la decisión}} - \text{FF}_{\text{sin tomar la decisión}}
+\]

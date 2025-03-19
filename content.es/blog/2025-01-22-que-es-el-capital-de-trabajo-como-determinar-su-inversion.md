@@ -25,7 +25,9 @@ Este método presenta limitaciones dado la dificultad que existe para estimar un
 
 De acuerdo a este modelo, el capital de trabajo se calcula como la cantidad de recursos necesarios para financiar los costos de operación desde que se inician los desembolsos hasta que se recuperan. Para ello, toma el costo promedio diario (Ca1/365)  y lo multiplica por el número de días estimados de desfase (n).
 
-_Inversión en Capital de Trabajo = ( Ca1 / 365 ) x  n_
+\[
+\text{Inversión en Capital de Trabajo} = \left( \frac{\text{Ca1}}{365} \right) \times n
+\]
 
 \* _Ca1_: costo anual proyectado para el primer año de operación
 
