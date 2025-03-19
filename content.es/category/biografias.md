@@ -1,10 +1,10 @@
 ---
-title: Resúmenes de libros
+title: Biografías
 seo: ''
-slug: resumen-libro
+slug: biografias
 description: ''
 image: ''
-icon: book
+icon: address-book
 categories: []
 tags: []
 toc: false

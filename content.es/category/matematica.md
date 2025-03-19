@@ -1,10 +1,10 @@
 ---
-title: Resúmenes de libros
+title: Matemática
 seo: ''
-slug: resumen-libro
+slug: matematica
 description: ''
 image: ''
-icon: book
+icon: sigma
 categories: []
 tags: []
 toc: false

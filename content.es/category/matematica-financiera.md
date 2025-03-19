@@ -1,10 +1,10 @@
 ---
-title: Resúmenes de libros
+title: Matemática financiera
 seo: ''
-slug: resumen-libro
+slug: matematica-financiera
 description: ''
 image: ''
-icon: book
+icon: calculator
 categories: []
 tags: []
 toc: false

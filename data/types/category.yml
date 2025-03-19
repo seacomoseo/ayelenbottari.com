@@ -13,7 +13,7 @@ tpl:
   list:
     image: hide
     icon: ''
-    hs: 5
+    hs: 4
     uppercase: true
     align: center
     button: ''

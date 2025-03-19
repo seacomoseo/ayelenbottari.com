@@ -9,5 +9,5 @@ categories: []
 tags: []
 toc: false
 draft: false
-noindex: false
+noindex: true
 ---

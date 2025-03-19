@@ -1,10 +1,10 @@
 ---
-title: Resúmenes de libros
+title: Estadística
 seo: ''
-slug: resumen-libro
+slug: estadistica
 description: ''
 image: ''
-icon: book
+icon: chart-simple
 categories: []
 tags: []
 toc: false
