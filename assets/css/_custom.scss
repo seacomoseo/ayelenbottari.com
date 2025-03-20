@@ -13,10 +13,6 @@
 //   font-variant: small-caps;
 // }
 
-.md__heading em {
-  line-height: .83;
-}
-
 // Header Animations
 #body-home #header {
   @mixin show-from($delay) { animation: show-from .5s (.25 + .25s * $delay) both; }
