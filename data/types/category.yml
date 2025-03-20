@@ -11,9 +11,10 @@ tax_of:
   breadcrumbs: true
 tpl:
   list:
+    align: center
     image: hide
     icon: ''
     hs: 4
     uppercase: true
-    align: center
+    md: hide
     button: ''

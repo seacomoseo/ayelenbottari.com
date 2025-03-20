@@ -1,2 +1,11 @@
 title: Páginas
 order: 3
+tpl:
+  list:
+    align: center
+    image: hide
+    icon: ''
+    hs: 4
+    uppercase: true
+    md: hide
+    button: ''

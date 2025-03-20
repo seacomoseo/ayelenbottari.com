@@ -20,7 +20,7 @@ fonts:
     weight: 700
     bold: 0
     italic: true
-    line_height: 1.25
+    line_height: .83
     size: 1.2
     top: 0
   title:

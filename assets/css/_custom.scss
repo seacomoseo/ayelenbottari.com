@@ -1,5 +1,23 @@
-// Header Animations
+// h1, h2, h3, h4, h5, h6,
+// .icon--text,
+// strong,
+// .strong,
+// .button--swap:not(.button) > i,
+// dt,
+// legend,
+// .form__label,
+// .md .link:not(.box, .button, .md__heading > *),
+// .md blockquote cite,
+// :where(ul, ol) > :where(li::before, li > .icon),
+// .price {
+//   font-variant: small-caps;
+// }
 
+.md__heading em {
+  line-height: .83;
+}
+
+// Header Animations
 #body-home #header {
   @mixin show-from($delay) { animation: show-from .5s (.25 + .25s * $delay) both; }
   .image      { @include show-from(0); --show-from: perspective(50em) rotateY(90deg); }
