@@ -11,29 +11,21 @@ Si bien el armado de rompecabezas es una actividad divertida y apasionante, en l
 
 Cada armado es único y podrás, en cada caso, aprovechar las bondades de cada diseño como puntas de ovillo para iniciar el armado. Sin embargo, al momento de abrir un puzzle, te recomiendo organizar la actividad en una serie de pasos que a continuación te compartiré.
 
-### **1.Buscar un ambiente luminoso y una base sobre la cual apoyar.** 
+### **Buscar un ambiente luminoso y una base sobre la cual apoyar.**
 
 La base puede ser una mesa, escritorio o hasta una madera liviana montada sobre dos caballetes. Lo ideal es que el rompecabezas tenga su propio lugar de armado y que esté a la vista (sobre todo a tu vista, porque irás creando una memoria gráfica de él y de sus fichas), pero en caso de que no dispongas de tal lugar, podrás usar como base un cartón acorde al tamaño requerido que te permita apoyarlo sobre una mesa y luego desplazarlo con cuidado.
 
-### **2. Clasificar las fichas.**
+### **Clasificar las fichas.**
 
 Personalmente, te recomiendo hacer una ***primera clasificación según la forma*** de la ficha. Por un lado,  separá las fichas que forman parte del _borde_. Por otro lado, clasificá las fichas _según sus partes salientes_. A continuación te muestro las formas a clasificar.
 
 ![](/saliencias.jpg)![](/fb_img_1743204411174.jpg)
 
- Una vez que las fichas están clasificadas según su forma, podés ***subclasificar según el color o tonalidad de la pieza***, aunque este paso no es estrictamente necesario.
+Una vez que las fichas están clasificadas según su forma, podés ***subclasificar según el color o tonalidad de la pieza***, aunque este paso no es estrictamente necesario.
 
+### **Armar el borde.**
 
-
-
-
-### **3. Armar el borde.**
-
-
-
-
-
-### **4. Armar el resto del puzzle aprovechando detalles gráficos propios de cada motivo.**
+### **Armar el resto del puzzle aprovechando detalles gráficos propios de cada motivo.**
 
 En el caso del _Mapamundi_, luego del borde formé la franja horizontal escrita y, seguidamente, los aledaños de cada circunferencia; mientras que, en el puzzle de _La creación de Adán,_ utilicé otra estrategia. En esto, no existe una regla que pueda ayudarte pero sí facilitadores propios de cada diseño que podrás descubrir observándolo un rato.
 
