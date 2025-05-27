@@ -8,7 +8,7 @@ date: 2025-05-27 20:38:25
 category:
 - biografias
 author: admin
-toc: false
+toc: true
 ---
 ## Introducción
 
@@ -28,10 +28,6 @@ Félix Candela sacudió el ámbito arquitectónico con una tecnología de origen
 
 Los paraboloides hiperbólicos marcaron una época en la arquitectura mexicana, ya que sólo pudieron ser construidos en México debido a que en otros países las delgadas láminas de concreto armado que conforman los cascarones no cumplían con la normativa, además del aspecto económico, ya que en esa época la mano de obra en México era aún más barata que en la actualidad y tenia un alto grado de espacialidad, razón por la que cuando en 1964 se decretó un salario mínimo para los albañiles mexicanos, los cascarones dejaron de ser económicamente rentables.
 
-
-
-
-
 ## Obras destacadas
 
 Entre sus obras más conocidas están los Almacenes Aduanales, en Vallejo, D. F.; los Mercados de Coyoacán, Azcapotzalco y Anáhuac, en el D. F.; la cubierta de la Bolsa de Valores de México; la iglesia del Altillo en Coyoacán, D. F.; el restaurante Los Manantiales, en Xochimilco, D. F.; la iglesia de Santa Mónica, en el D. F.; la capilla abierta de Palmira, en Cuernavaca, Mor.; la iglesia de San José Obrero en Monterrey y la iglesia de Nuestra Señora de Guadalupe, en Madrid, España. 
@@ -44,7 +40,7 @@ Se destacan también  las naves industriales para la planta embotelladora de Bac
 
 Carlos Lazo, director de la construcción de la Ciudad Universitaria en México, pidió a Candela ayuda para construir un laboratorio para medir neutrones. El techo debía ser lo suficientemente delgado como para dar paso a los rayos cósmicos, con un espesor máximo de 15 mm . Se le ocurrió a Candela que al tratarse de una bóveda de espesor mínimo, sería aconsejable darle rigidez por medio de una doble curvatura. Estudió el caso de los paraboloides hiperbólicos y se basó en éstos para resolver su proyecto. Fue el séptimo cascarón construido por Candela. Se hizo una costosa cimbra de madera machihembrada y la bóveda se coló a mano. El cascarón se encuentra sobre el jardín universitario. 
 
-Fue la primera obra de Candela que tuvo publicidad y le dio renombre inmediato. Le dio también confianza en sí mismo y en sus facultades: “La evolución de las ideas es algo de lo que uno no se da cuenta cuando está trabajando. Ahora me doy cuenta que por ese tiempo empecé a sentirme seguro de mí mismo y de atreverme a tener opinión propia.” (Félix Candela, 1975)
+Fue la primera obra de Candela que tuvo publicidad y le dio renombre inmediato. Le dio también confianza en sí mismo y en sus facultades: _“La evolución de las ideas es algo de lo que uno no se da cuenta cuando está trabajando. Ahora me doy cuenta que por ese tiempo empecé a sentirme seguro de mí mismo y de atreverme a tener opinión propia.”_ (Félix Candela, 1975)
 
 ![](/pabellon-rayos.cosmicos-.jpg)
 
@@ -86,4 +82,4 @@ L’Oceanogràfic es un acuario que forma parte del complejo de la Ciudad de las
 
 ## Comentarios finales
 
-Candela fue una de las figuras fundamentales de la arquitectura del siglo XX en cuanto al desarrollo de cascarones de hormigón armado. Creía en el poder de las formas auto-portantes y en el formalismo estático de su Arquitectura. El mérito de Candela fue la realización de su obra arquitectónica de forma económica, funcional y con alto contenido estético, superando las significativas dificultades de la guerra y el exilio, con el mérito añadido de la modestia y honestidad: “[...mi](...mi) mayor satisfacción no estriba en haber ejecutado ciertas estructuras espectaculares —aunque confieso que he disfrutado mucho haciéndolas—, sino en haber contribuido, siquiera sea en forma mínima, a aliviar el ingente problema de cubrir económicamente espacios habitables, demostrando que la construcción de cascarones no constituye una hazaña extraordinaria que inmortalice a sus autores, sino un procedimiento constructivo sencillo y flexible.” (Félix Candela,1989). 
+Candela fue una de las figuras fundamentales de la arquitectura del siglo XX en cuanto al desarrollo de cascarones de hormigón armado. Creía en el poder de las formas auto-portantes y en el formalismo estático de su Arquitectura. El mérito de Candela fue la realización de su obra arquitectónica de forma económica, funcional y con alto contenido estético, superando las significativas dificultades de la guerra y el exilio, con el mérito añadido de la modestia y honestidad: _“La mayor satisfacción no estriba en haber ejecutado ciertas estructuras espectaculares —aunque confieso que he disfrutado mucho haciéndolas—, sino en haber contribuido, siquiera sea en forma mínima, a aliviar el ingente problema de cubrir económicamente espacios habitables, demostrando que la construcción de cascarones no constituye una hazaña extraordinaria que inmortalice a sus autores, sino un procedimiento constructivo sencillo y flexible.”_ (Félix Candela,1989). 
