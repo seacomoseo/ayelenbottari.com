@@ -28,6 +28,7 @@ Félix Candela sacudió el ámbito arquitectónico con una tecnología de origen
 
 Los paraboloides hiperbólicos marcaron una época en la arquitectura mexicana, ya que sólo pudieron ser construidos en México debido a que en otros países las delgadas láminas de concreto armado que conforman los cascarones no cumplían con la normativa, además del aspecto económico, ya que en esa época la mano de obra en México era aún más barata que en la actualidad y tenia un alto grado de espacialidad, razón por la que cuando en 1964 se decretó un salario mínimo para los albañiles mexicanos, los cascarones dejaron de ser económicamente rentables.
 
+![](/111.png)
 ## Obras destacadas
 
 Entre sus obras más conocidas están los Almacenes Aduanales, en Vallejo, D. F.; los Mercados de Coyoacán, Azcapotzalco y Anáhuac, en el D. F.; la cubierta de la Bolsa de Valores de México; la iglesia del Altillo en Coyoacán, D. F.; el restaurante Los Manantiales, en Xochimilco, D. F.; la iglesia de Santa Mónica, en el D. F.; la capilla abierta de Palmira, en Cuernavaca, Mor.; la iglesia de San José Obrero en Monterrey y la iglesia de Nuestra Señora de Guadalupe, en Madrid, España. 
