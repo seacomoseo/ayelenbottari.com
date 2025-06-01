@@ -1,9 +1,7 @@
 ---
 slug: el-principe-feliz-oscar-wilde-cuento-infantil-
 title: El príncipe feliz- Oscar Wilde
-summary: '
-
-  '
+summary: Desde la parte más alta de la ciudad en que se alza su estatua revestida en oro y coronada de piedras preciosas, el Príncipe Feliz contempla la miseria que asedia el lugar y ayuda a sus habitantes. Una golondrina hace de mensajera del Príncipe y va llevando  sucesivamente los bienes que constituyen la riqueza de la estatua. El amor entre la golondrina y el Príncipe crece y ambos culminan su historia como seres preciosos a los ojos de un ángel  y a los ojos de Dios.
 image: /1.jpg
 date: 2025-06-01 18:48:12
 category:
