@@ -11,22 +11,6 @@ category:
 
 _Desde la parte más alta de la ciudad en que se alza su estatua revestida en oro y coronada de piedras preciosas, el Príncipe Feliz contempla la miseria que asedia el lugar y ayuda a sus habitantes. Una golondrina hace de mensajera del Príncipe y va llevando  sucesivamente los bienes que constituyen la riqueza de la estatua. El amor entre la golondrina y el Príncipe crece y ambos culminan su historia como seres preciosos ante los ojos de un ángel  y ante los ojos de Dios._
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **EL PRÍNCIPE FELIZ**
 
 _Oscar Wilde_ 
@@ -207,11 +191,15 @@ En la parte más alta de la ciudad, sobre una elevada columna, alzábase la esta
 
    -Querida golondrinita -dijo el Príncipe- todo lo que me cuentas es maravilloso, pero más maravillosos son aún los sufrimientos de los hombres y mujeres. No hay mayor misterio que la miseria. Vuela sobre mi ciudad, golondrinita, y cuéntame lo que veas.
 
-   Entonces la golondrina voló sobre la gran ciudad. Vio a los ricos celebrando festines en sus magníficas casas mientras los mendigos se agrupaban, sentados en los portales.     Voló sobre los callejones y contempló las caras lívidas de niños hambrientos mirando inmóviles hacia las calles en tinieblas. Bajo el arco de un puente estaban tendidos dos niñitos, fuertemente abrazados el uno al otro, tratando de calentarse.
+   Entonces la golondrina voló sobre la gran ciudad. Vio a los ricos celebrando festines en sus magníficas casas mientras los mendigos se agrupaban, sentados en los portales.     
+
+   Voló sobre los callejones y contempló las caras lívidas de niños hambrientos mirando inmóviles hacia las calles en tinieblas. Bajo el arco de un puente estaban tendidos dos niñitos, fuertemente abrazados el uno al otro, tratando de calentarse.
 
    -¡Qué hambre tenemos! -decían.
 
-   -No podéis estar aquí -les gritó un guardia. Y tuvieron que alejarse bajo la lluvia.    Entonces la golondrina emprendió el regreso y explicó al Príncipe lo que había visto.
+   -No podéis estar aquí -les gritó un guardia. 
+
+Y tuvieron que alejarse bajo la lluvia. Entonces la golondrina emprendió el regreso y explicó al Príncipe lo que había visto.
 
    -Estoy recubierto de una capa de oro fino -dijo el Príncipe-, tú debes quitármela hoja por hoja, y dársela a mis pobres; la humanidad siempre cree que el oro proporciona la felicidad. 
 
@@ -253,7 +241,7 @@ Era que el pesado corazón se había quebrado en dos. La verdad es que hacía un
 
    -O la mía -gritaron sucesivamente cada uno de los concejales. Y empezaron a reñir acaloradamente. La última vez que supe de ellos aún seguían discutiendo.
 
-   -¡Qué cosa tan rara! -dijo el capataz de la fundición-. Este roto corazón roto no se funde en el horno. Tendremos que tirarlo como chatarra.
+   -¡Qué cosa tan rara! -dijo el capataz de la fundición-. Este corazón roto no se funde en el horno. Tendremos que tirarlo como chatarra.
 
    Entonces lo tiraron al montón de basura, donde estaba la golondrina muerta.
 
