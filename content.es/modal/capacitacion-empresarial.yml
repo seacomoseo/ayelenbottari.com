@@ -5,8 +5,8 @@ subtitle: Modalidades
 box:
   cols: 2
   gap: 2
-  uppercase: true
-  underline: true
+  caps: true
+  line: true
   hs: 5
 boxes:
 - icon: crosshairs

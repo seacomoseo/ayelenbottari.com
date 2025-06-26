@@ -15,6 +15,6 @@ tpl:
     image: hide
     icon: ''
     hs: 4
-    uppercase: true
+    caps: true
     md: hide
     button: ''

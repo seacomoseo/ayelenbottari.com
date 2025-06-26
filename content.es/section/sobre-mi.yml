@@ -7,7 +7,7 @@ box:
   # align_y: center
   circle: true
 boxes:
-- image: ayelen-joung.jpg
+- image: inicio/ayelen-joung.jpg
 - fit: 2
   md: |
     ¡Hola! Me llamo Ayelén Bottari, nací el 01 de Agosto de 1986 y desde entonces vivo apasionadamente, con profundo sentido de la vida y con alegría. Desde temprana edad viví entre líneas, leyendo todo lo que estaba a mi alcance y descubriendo a través de los libros un universo paralelo: un libro en mi mano significaba la promesa de algo nuevo. Ellos entretenían y alborotaban mi naturaleza curiosa, de modo que prontamente se convirtieron en fuente de profundidad y alimento. 
@@ -16,4 +16,4 @@ boxes:
 
     Doy clases particulares a estudiantes universitarios desde el año 2010 de forma presencial, y, desde el año 2019 de modo virtual. Trabajo incansablemente no sólo para revertir el tedio que suelen generar los métodos clásicos de enseñanza, sino que, además, busco que cada persona crea en sí misma, en su posibilidad de hacerse preguntas, de cuestionar y de generar conflictos cognitivos que le permitan llegar a una síntesis superadora en sus aprendizajes. 
   align: left
-- image: ayelen.jpg
+- image: inicio/ayelen.jpg

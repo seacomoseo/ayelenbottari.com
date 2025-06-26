@@ -2,7 +2,7 @@ title: Todas
 order: 0
 tpl:
   toc: true
-  back:
+  bg:
     color: light
   menu:
     logo: true
@@ -27,15 +27,15 @@ tpl:
       - label: Blog
         link: /blog/
       - label: Contacto
-        link: /contacto/
+        link: /#contacto
         button: cta
   callnow:
     show: hide
     es: []
   section:
   - size: sm
-    uppercase: true
-    underline: true
+    caps: true
+    line: true
   modal:
     color: white
   sections:

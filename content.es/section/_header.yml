@@ -1,11 +1,11 @@
 name: Header
 color: dark
 alpha: 0
-bg: fondo.svg
+bi: inicio/fondo.svg
 full: true
 boxes:
 - fit_vs: .67
   image: base/logo.svg
   title: Educación con Amor
   hanchor: Ayelén Bottari - Formación en Matemáticas, Estadística y Finazas
-  uppercase: true
+  caps: true

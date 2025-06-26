@@ -9,13 +9,13 @@ tpl:
     show: auto
   section:
   - size: lg
-    uppercase: true
-    underline: true
+    caps: true
+    line: true
     color: light
     parallax: fix
     # div: wavy-alt
     alpha: 0.7
   - color: white
   modal:
-    uppercase: true
-    underline: true
+    caps: true
+    line: true

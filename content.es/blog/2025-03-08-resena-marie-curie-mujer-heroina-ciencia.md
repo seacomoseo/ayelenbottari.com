@@ -1,7 +1,7 @@
 ---
 slug: resena-marie-curie-mujer-heroina-ciencia
 title: 'Breve reseña de Marie Curie: mujer y heroína de la Ciencia'
-image: blog/marie-curie.jpeg
+image: marie-curie.jpg
 date: 2025-03-08 01:58:22
 category:
 - general

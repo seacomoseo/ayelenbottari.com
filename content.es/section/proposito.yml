@@ -2,8 +2,8 @@ name: Propósito
 size: md
 box:
   cols: 3
-  uppercase: true
-  underline: true
+  caps: true
+  line: true
   gap_vs: 2
 boxes:
 - fit: 2

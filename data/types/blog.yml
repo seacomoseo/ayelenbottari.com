@@ -2,5 +2,6 @@ base: article
 order: 0
 name: blog
 related: true
+noindex_parent: false
 es:
   permalinks: ''

@@ -6,5 +6,10 @@ langs:
   phone_code: 54
   time_zone: America/Argentina/Buenos_Aires
   currency: ARS
+defaults:
+- name: author
+  value: admin
+  path:
+  - /blog/*
 others:
   show: true

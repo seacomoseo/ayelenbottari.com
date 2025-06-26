@@ -10,7 +10,7 @@ boxes:
 - box:
     cols: 3
     gap_vs: 1
-    uppercase: true
+    caps: true
     hs: 5
     icon_type: side
     grow: true
@@ -33,13 +33,13 @@ boxes:
       Sin requisitos previos: ¡No necesitás saber el contenido con antelación!
 
 - title: Modalidades
-  uppercase: true
-  underline: true
+  caps: true
+  line: true
   box:
     cols: 2
     gap_vs: 2
-    uppercase: true
-    underline: true
+    caps: true
+    line: true
     hs: 6
   boxes:
   - icon: chalkboard-user

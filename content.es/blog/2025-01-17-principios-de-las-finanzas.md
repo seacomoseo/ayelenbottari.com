@@ -1,7 +1,7 @@
 ---
 slug: principios-de-las-finanzas
 title: ¿Cuáles son los Principios de las Finanzas?
-image: blog/principios-de-las-finanzas.jpg
+image: principios-de-las-finanzas.jpg
 date: 2025-01-17 00:00:00
 author: admin
 category:

@@ -3,7 +3,7 @@ title: '"C83"'
 seo: '"C83" - Un reclamo hecho cuento'
 slug: c83-cuento-sobre-tiempo-de-espera-banco
 description: ''
-image: blog/c83-cuento-sobre-tiempo-de-espera-banco.jpg
+image: c83-cuento-sobre-tiempo-de-espera-banco.jpg
 category:
 - cuentos
 author: admin
