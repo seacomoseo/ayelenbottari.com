@@ -1,6 +1,6 @@
 # ayelenbottari.com
 
-[![ayelenbottari.com](/assets/media/logo.png)](https://ayelenbottari.com/)
+[![ayelenbottari.com](/assets/media/logo.svg)](https://ayelenbottari.com/)
 
 
 ## STEPS

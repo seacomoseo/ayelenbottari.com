@@ -1,7 +1,6 @@
 title: Todas
 order: 0
 tpl:
-  toc: true
   bg:
     color: light
   menu:
