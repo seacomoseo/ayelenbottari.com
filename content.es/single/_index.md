@@ -57,8 +57,8 @@ org:
   schedule: []
   prices: €€
   services:
-  - name: Capacitación Empresarial
+  - title: Capacitación Empresarial
     area: Argentina
-  - name: Formación Universitaria
+  - title: Formación Universitaria
     area: Argentina
 ---
