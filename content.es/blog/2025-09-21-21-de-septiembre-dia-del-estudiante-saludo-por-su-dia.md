@@ -1,6 +1,7 @@
 ---
 slug: 21-de-septiembre-dia-del-estudiante-saludo-por-su-dia
 title: '21 de Septiembre: Día del estudiante'
+image: /1000003832.jpg
 date: 2025-09-21 20:36:16
 category: null
 author: null
