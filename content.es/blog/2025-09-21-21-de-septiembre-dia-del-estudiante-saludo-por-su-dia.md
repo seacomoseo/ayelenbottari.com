@@ -3,6 +3,7 @@ slug: 21-de-septiembre-dia-del-estudiante-saludo-por-su-dia
 title: '21 de Septiembre: Día del estudiante'
 image: /1000003832.jpg
 date: 2025-09-21 20:36:16
+toc: false
 category: null
 author: null
 ---
@@ -11,6 +12,3 @@ En un rincón del café Metrópole Albert alguna vez enseñó: “-Olvide el pro
 ## ***¡Feliz día, querido estudiante!***
 
 ![](/1000003832.jpg)
-
-
-
