@@ -20,7 +20,7 @@ A continuación, te presento algunos de los hallazgos: 
 
 ## Factores inversamente proporcionales a la PAZ
 
-- **LA CULPA:** Ya sea por autocondenación o por la dificultad de perdonar a los demás, la culpa es un obstáculo para  la paz. Como personas, acumulamos pasado y narramos historias sobre lo ocurrido. Pero si no concluimos el ciclo de estas “Cuentas por cobrar” y “Cuentas por pagar” en un lapso breve, viviremos desfasados en el tiempo buscando una paz que no se puede saldar.
+- **LA CULPA:** Ya sea por autocondenación o por la dificultad de perdonar, la culpa es un obstáculo para  la paz. Como personas, acumulamos pasado y narramos historias sobre lo ocurrido. Pero si no concluimos el ciclo de estas “Cuentas por cobrar” y “Cuentas por pagar” en un lapso breve, viviremos desfasados en el tiempo buscando una paz que no se puede saldar.
 - **ACTUAR NEGANDO LA VOZ INTERIOR:** Un enemigo para la paz es negar al alma y actuar acorde a lo establecido o para dar a los demás una imagen que espera retribución en la complacencia. Es una traición en primera persona (aunque todas las traiciones son a uno mismo) que nos lleva a acumular resentimiento, infelicidad y nos aleja de la armonía más vital: el ser uno mismo y compartirse como tal.
 
 En conclusión, la paz es un equilibrio delicado entre factores que la potencian y otros que la debilitan. Aunque su ecuación es compleja,  su solución es simple: ser auténticos, éticos y generosos. Al trabajar en estos factores, podremos crear un mundo más pacífico que nos permita vivir y convivir en conexión real con los demás.
