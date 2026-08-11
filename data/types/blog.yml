@@ -1,7 +1,5 @@
+title: Blog
 base: article
-order: 0
+weight: 1
 name: blog
-related: true
-noindex_parent: false
-es:
-  permalinks: ''
+rel: true

@@ -1,20 +1,20 @@
 base: page
-order: 1
+weight: 2
 name: category
 tax_of:
 - name: blog
-  multiple: true
-  breadcrumbs: true
+  multi: true
+  crumbs: true
   schema: articleSection
 - name: category
-  multiple: true
-  breadcrumbs: true
+  multi: true
+  crumbs: true
 tpl:
   list:
     align: center
-    image: hide
-    icon: ''
+    img: hide
+    icon: hide
     hs: 4
     caps: true
     md: hide
-    button: ''
+    btn: cta

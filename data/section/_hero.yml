@@ -1,0 +1,11 @@
+name: Hero
+color: dark
+alpha: 0
+bi: /u/inicio/fondo.svg
+full: true
+boxes:
+- fit_vs: 0.67
+  img: /u/base/logo.svg
+  title: Educación con Amor
+  hanchor: Ayelén Bottari - Formación en Matemáticas, Estadística y Finazas
+  caps: true

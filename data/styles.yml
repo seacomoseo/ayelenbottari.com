@@ -1,76 +1,70 @@
 icons:
-  type: solid
-  sharp: false
-  emojis: false
-  play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
+  fill: true
+  weight: 700
+  grade: 0
+  optical: 24
+  style: rounded
+  def:
+    play: svg:youtube-iframe
 fonts:
   base:
-    google: false
     family: DIN Next LT Pro
     weight: 400
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
-    google: false
     family: Alegreya
     weight: 700
     bold: 0
     italic: true
     line_height: .83
     size: 1.2
-    top: 0
   title:
-    google: false
     family: Brandon Grotesque
     weight: 900
     bold: 0
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   blockquote_cursive: true
 colors:
   main:
     color: '#d19a2a'
-    light: ''
-    dark: ''
-    contrast:
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
       fill: false
       in: false
       text: false
   alt:
-    color: ''
-    light: ''
-    dark: ''
-    contrast:
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
       fill: true
       in: true
       text: true
   cta:
-    color: ''
-    light: ''
-    dark: ''
-    contrast:
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
       fill: false
       in: false
       text: false
   base:
-    white: '#fff'
-    light: '#eee'
+    white: '#ffffff'
+    light: '#eeeeee'
     gray: '#767676'
     dark: '#382f39'
-    black: '#000'
+    black: '#000000'
 rounded:
   radius: 1.33
   chamfer: false
-buttons:
-  sides_round: false
-  dot_circle: false
+btns:
+  pill: false
+  disc: false
   deep: true
   outline: false
   font:
@@ -83,7 +77,7 @@ buttons:
     caps: false
 inputs:
   fill: true
-  labels_out: false
+  labels: in
 shadow:
   left: 0.15
   top: 0.15

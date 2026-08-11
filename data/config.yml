@@ -1,15 +1,6 @@
-langs:
-- lang: es
-  title: Ayelén Bottari
-  description: Clases Particulares Online de Matemáticas, Estadística y Finanzas. Formación Universitaria y Capacitación Empresarial.
-  google_analytics: G-J7JX99PPYB
-  phone_code: 54
-  time_zone: America/Argentina/Buenos_Aires
-  currency: ARS
-defaults:
-- name: author
-  value: admin
-  path:
-  - /blog/*
-others:
-  show: true
+ga4: G-J7JX99PPYB
+mail: ayelenbottari@gmail.com
+phone_code: 54
+time_zone: America/Argentina/Buenos_Aires
+currency: ARS
+show: true

@@ -1,0 +1,6 @@
+---
+permalinks: /
+seo:
+  noindex: false
+---
+

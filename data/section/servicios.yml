@@ -1,0 +1,111 @@
+name: Servicios
+size: sm
+boxes:
+- title: Servicios
+  sub: Aprendé
+- hanchor: Materias
+  box:
+    cols: 3
+    icon_pos: side
+    hs: 2
+  boxes:
+  - icon: function
+    title: Matemáticas
+  - icon: show_chart
+    title: Estadística
+  - icon: pie_chart
+    title: Finanzas
+- box:
+    cols: 2
+    caps: true
+    pd_vs: 2
+    gap_vs: 2
+    color: white
+  boxes:
+  - icon: school
+    title: Formación Universitaria
+    url: '#formacion-universitaria'
+  - icon: co_present
+    title: Capacitación Empresarial
+    url: '#capacitacion-empresarial'
+modal:
+  color: white
+modals:
+- id: formacion-universitaria
+  title: Formación Universitaria
+  md: |
+    Querid@ alumn@, de mi mano podrás aprender e incorporar el conocimiento que necesitás para aprobar tus exámenes y lograr tus metas universitarias. El proceso será:
+  box:
+    gap_vs: 2
+  boxes:
+  - box:
+      cols: 3
+      gap_vs: 1
+      caps: true
+      hs: 5
+      icon_pos: side
+      grow: true
+    boxes:
+    - icon: schedule
+      title: Rápido
+      md: En pocas horas
+    - icon: check_circle
+      title: Simple
+      md: De manera clara y metódica
+    - icon: wallet
+      title: Económico
+      md: Acorde a tu economía universitaria
+    - icon: trophy
+      title: Efectivo
+      md: 90% de aprobados en sus exámenes con buenas y muy buenas calificaciones
+    - icon: cancel
+      title: Sin requisitos
+      md: |
+        Sin requisitos previos: ¡No necesitás saber el contenido con antelación!
+  - title: Modalidades
+    caps: true
+    line: true
+    box:
+      cols: 2
+      gap_vs: 2
+      caps: true
+      line: true
+      hs: 6
+    boxes:
+    - icon: cast_for_education
+      title: Clases en vivo
+      md: |
+        Se caracterizan por ser:
+        - ::check:: Individuales o en grupos reducidos
+        - ::check:: De 1 hora de duración
+        - ::check:: Con el material de estudio incluído
+    - icon: desktop_windows
+      title: Entrenamientos virtuales
+      md: |
+        Es un método ideal de aprendizaje para aquellas personas que llevan rutinas con múltiples actividades y que disponen de poco tiempo para estudiar. Con este formato podrás estudiar de modo asincrónico en función de tus horarios y días disponibles y, además, contarás con un seguimiento contínuo del proceso y con la posibilidad de despejar dudas cuando sea necesario.
+  - md: |
+      Puedo asesorarte sobre la opción de aprendizaje óptima a tomar, \
+      acorde a tu objetivo
+
+      [[¡Consúltame!]](#contacto "[dark]")
+  color: white
+- id: capacitacion-empresarial
+  title: Capacitación Empresarial
+  sub: Modalidades
+  box:
+    cols: 2
+    gap: 2
+    caps: true
+    line: true
+    hs: 5
+  boxes:
+  - icon: location_searching
+    title: Enfoque a objetivos específicos
+    md: Brindo capacitaciones personalizadas a partir de objetivos y directrices establecidos por la empresa.
+  - icon: pie_chart
+    title: Programas estadísticos y financieros
+    md: Destinados a adquirir y actualizar contenidos con el fin de mejorar la performance laboral y las habilidades comunicativas del equipo basadas en el conocimiento científico.
+  - fit: 2
+    md: |
+      [[¡Consúltame!]](#contacto "[dark]")
+  color: white

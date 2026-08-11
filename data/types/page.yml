@@ -1,11 +1,11 @@
-title: Páginas
-order: 100
+title: Páginas Simples
+weight: 100
 tpl:
   list:
     align: center
-    image: hide
-    icon: ''
+    img: hide
+    icon: hide
     hs: 4
     caps: true
     md: hide
-    button: ''
+    btn: cta

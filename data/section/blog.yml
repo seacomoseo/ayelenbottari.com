@@ -1,0 +1,10 @@
+name: Blog
+size: md
+boxes:
+- title: Blog
+  hanchor: Ayelén Bottari
+  list:
+    type: blog
+    max: 12
+  box:
+    slider: true

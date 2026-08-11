@@ -1,0 +1,27 @@
+menu:
+  img: /u/base/logo.svg
+  items:
+  - label: Inicio
+    url: /
+  - label: Propósito
+    url: /#proposito
+  - label: Servicios
+    url: /#servicios
+  - label: Sobre mi
+    url: /#sobre-mi
+  - label: Testimonios
+    url: /#testimonios
+  - label: Blog
+    url: /blog/
+  - label: Contacto
+    url: /#contacto
+    btn: cta
+title: Valores Globales
+footer:
+  md: |
+    - ::copyright::      {{< internal-link index >}}
+    - ::balance:: {{< internal-link legal >}}
+    - ::encrypted:: {{< internal-link privacy >}}
+    - ::cookie::    {{< internal-link cookies >}}
+    - ::brand:seacomoseo::     Hecho con ::favorite:: por [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}
