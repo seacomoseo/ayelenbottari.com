@@ -16,7 +16,6 @@ menu:
   - label: Contacto
     url: /#contacto
     btn: cta
-title: Valores Globales
 footer:
   md: |
     - ::copyright::      {{< internal-link index >}}
